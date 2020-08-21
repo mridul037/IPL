@@ -3,7 +3,8 @@
 ### TECH STACK
       
 #### REACT.JS
-       most popular framework in tech uses virtual dom,strong community,optimization of StackFrame for efficent apps
+       most popular framework in tech uses virtual dom,strong community,
+       optimization of StackFrame for efficent apps
 ####  MATERIAL-LIBRARY
        material support for reponsive design for react and components
 ####  RECHART LIBRARY
