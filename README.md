@@ -1,3 +1,36 @@
+## IPL PROJECT
+  
+### TECH STACK
+      
+#### REACT.JS
+       most popular framework in tech uses virtual dom,strong community,optimization of StackFrame for efficent apps
+####  MATERIAL-LIBRARY
+       material support for reponsive design for react and components
+####  RECHART LIBRARY
+       library for data visualization and complicated graphs.  
+####  MOCKABLE.IO (Data hosting)
+        A site for hosting your Json data.
+
+### BONUS POINTS
+  #### you create the web-app in vue.js.
+        No I used react.js ,but learning vue.js will try to submit a view app also.
+  #### you can optimize the loading time.
+         1.yes used virtual scrolling for all list of matches reduced load time.
+         2.Tried to minimize css
+         3.Used console.time() to measure js code script time.
+         4.suggestions(Can be used server side rendering,pagination,infinte scrool)
+         5.suggestion(state management for bigger apps).
+  ####  you make it mobile responsive.
+         Yes used screen breakpoints,CSS Grid,suggestion(flexbox can be used)  
+  #### you make it a progressive web-app.
+         Yes, I tried to make it PWA      
+  #### you make it offline usable.
+       Yes, I Added static html while internet is not available
+       
+
+        
+         
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
